@@ -1,5 +1,5 @@
 # 👋 About Me:
-🎉 I’m currently working on a lot of smaller projects and games<br>⚡As well as many other smaller projects<br>🌱 I’m also trying to improve my C++ Skills<br>🏆 My top specialities are SwiftUI, Python, Unity<br>👨‍💻 All of my games are available at http://illusionarygames.com/<br>📫 Send me an email at gustav@lubker.dk
+🎉 I’m currently working on a lot of smaller projects and games<br>🌱 I’m also trying to improve my C++ Skills<br>🏆 My top specialities are SwiftUI, Python, Unity<br>👨‍💻 All of my games are available at http://illusionarygames.com/<br>📫 Send me an email at gustav@lubker.dk
 
 
 ## 🌐 Socials:
